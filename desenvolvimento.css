@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: aqua;
+}
+div
+{
+    margin: auto;
+    width: 800px;
+}
